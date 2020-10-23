@@ -9,7 +9,7 @@ An animated gif of 11 million [Geonames](http://www.geonames.org) points.
 
 <img src="https://tidwall.s3.amazonaws.com/zorder-12-240.gif">
 
-[Full Size GIF (60+ MB)](https://tidwall.s3.amazonaws.com/zorder-48-512.mp4)  
+[Full Size GIF (60+ MB)](https://tidwall.s3.amazonaws.com/zorder-48-512.gif)  
 [Full Size MP4 (5+ MB)](https://tidwall.s3.amazonaws.com/zorder-30-512.mp4)
 
 
