@@ -7,7 +7,7 @@ An animated gif of 11 million [Geonames](http://www.geonames.org) points.
 - Uses [pinhole](https://github.com/tidwall/pinhole) for drawing the points
 - Uses [ffmpeg](https://github.com/FFmpeg/FFmpeg) for rendering the final frame
 
-<img src="https://tidwall.s3.amazonaws.com/zorder-24-320.gif">
+<img src="https://tidwall.s3.amazonaws.com/zorder-12-320.gif">
 
 ## Creating the GIF
 
